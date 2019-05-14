@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Snowman/Snowman.swift"
+            timestampString = "578670937.222991"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "Snowman"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Snowman.Snowman.init(frame: __C.CGRect) -&gt; Snowman.Snowman"
+                  moduleName = "Snowman"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Max/Dropbox/!IOSCourse/Snowman/Snowman/Snowman.swift"
+                  timestampString = "578423753.071557"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Snowman.Snowman.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Snowman.Snowman&gt;"
+                  moduleName = "Snowman"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Max/Dropbox/!IOSCourse/Snowman/Snowman/Snowman.swift"
+                  timestampString = "578423753.073357"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "379">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
